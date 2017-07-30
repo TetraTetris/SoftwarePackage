@@ -5,20 +5,13 @@ deutsche Anleitung weiter unten.
 
 
 Installation Guide:
-1. Download the Arduino IDE and install it
-https://www.arduino.cc/en/Main/Software
-2. start the Arduino IDE once and close it
-3.Download this Repository and put it in the Arduino Path
-    In Mac, /Users/abu/Documents/Arduino/
-    In Linux, /home/abu/sketchbook/
-    In Windows, C:\Users\abu\Documents\Arduino\
-
+1. download the folder "arduino-1.6.5-tetratetris"
+2. start the arduino.exe
+3. go to tools->board and choose "arduino uno"
+4. go to tools->port and choose the port where arduino is written too (that is just possible if you connected the arduino already with the pc via usb)
 
 Installation:
-1. Lade dir die Arduino IDE herunter um den Arduino zu programmieren unter folgenden Link und installiere die Software.:
-https://www.arduino.cc/en/Main/Software
-2.starte die Arduino IDE einmal und schließe es wieder.
-3.Lade dir das TetraTetris Software Package (Dieses Repository) herunter und füge diesen Ordner in folgendem Pfad ein
-    In Mac, /Users/abu/Documents/Arduino/
-    In Linux, /home/abu/sketchbook/
-    In Windows, C:\Users\abu\Documents\Arduino\
+1. Lade dir den Ordner "arduino-1.6.5-tetratetris" herunter
+2. Öffne die Datei arduino.exe
+3. Gehe zu Werkzeuge->Board und wähle "arduino uno"
+4. gehe zu Werkzeuge->Port und wähle den Port aus, wo Arduino steht (das geht nur wenn du den Arduino bereits über USB mit dem Computer verbunden hast
